@@ -4,7 +4,7 @@
 #pragma once
 
 #include <iostream>
-#include "thirdparty/matplotlibcpp.h"
+#include <matplot/matplot.h>
 #include "signalLib/signal.h"
 
 // TODO: Reference additional headers your program requires here.

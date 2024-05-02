@@ -4,7 +4,7 @@
 #include "MakeLibrary.h"
 
 using namespace std;
-namespace plt = matplotlibcpp;
+namespace plt = matplot;
 int main()
 {
 	plt::plot({ 1,2,3,4 }, "*");
