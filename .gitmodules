@@ -1,3 +1,6 @@
 [submodule "MakeLibrary/thirdparty/pybind11"]
 	path = MakeLibrary/thirdparty/pybind11
 	url = https://github.com/pybind/pybind11.git
+[submodule "MakeLibrary/thirdparty/matplotplusplus"]
+	path = MakeLibrary/thirdparty/matplotplusplus
+	url = https://github.com/alandefreitas/matplotplusplus.git
