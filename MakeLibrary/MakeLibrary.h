@@ -6,5 +6,4 @@
 #include <iostream>
 #include <matplot/matplot.h>
 #include "signalLib/mysignal.h"
-
 // TODO: Reference additional headers your program requires here.
